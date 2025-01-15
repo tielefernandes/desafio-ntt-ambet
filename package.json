@@ -1,0 +1,22 @@
+{
+  "name": "desafio-ntt-ambev",
+  "version": "1.0.0",
+  "description": "Desafio técnico para vaga de QA da empresa NTT Data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tielefernandes/desafio-ntt-ambet.git"
+  },
+  "author": "Tiele Fernandes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tielefernandes/desafio-ntt-ambet/issues"
+  },
+  "homepage": "https://github.com/tielefernandes/desafio-ntt-ambet#readme",
+  "devDependencies": {
+    "cypress": "^13.17.0"
+  }
+}
