@@ -18,7 +18,7 @@ O objetivo deste projeto é garantir a qualidade da aplicação através da auto
 1.  Clone este repositório:
 
     ```bash
-    git clone 'https://github.com/tielefernandes/desafio-ntt-ambet.git'
+    git clone '(https://github.com/tielefernandes/desafio-ntt-ambev-e2e.git)'
     ```
 
 2.  Instale as dependências:
