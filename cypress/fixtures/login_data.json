@@ -1,0 +1,9 @@
+
+{
+    "emailValido": "tielefernandes@gmail.com",
+    "senhaValida": "Senha@123",
+    "emailInvalido": "email_invalido@exemplo",
+    "senhaInvalida": "senha_errada",
+    "mensagemEmailInvalido": "Email deve ser um email válido",
+    "mensagemSenhaInvalida": "Email e/ou senha inválidos"
+}
